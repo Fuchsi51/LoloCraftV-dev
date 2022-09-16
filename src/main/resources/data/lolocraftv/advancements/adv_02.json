@@ -1,0 +1,45 @@
+{
+  "display": {
+    "icon": {
+      "item": "lolocraftv:galaxy_log"
+    },
+    "title": {
+      "translate": "advancements.adv_02.title"
+    },
+    "description": {
+      "translate": "advancements.adv_02.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_02": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "lolocraftv:galaxy_log",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 400,
+    "recipes": [
+      "lolocraftv:galaxy_wood_recipe",
+      "lolocraftv:galaxy_planks_recipe",
+      "lolocraftv:galaxy_fence_gate_recipe",
+      "lolocraftv:galaxy_pressure_plate_recipe",
+      "lolocraftv:galaxy_button_recipe",
+      "lolocraftv:galaxy_stick_recipe"
+    ]
+  },
+  "parent": "lolocraftv:adv_01"
+}

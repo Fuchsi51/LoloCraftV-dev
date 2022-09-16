@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "lolocraftv:galaxygrass"
+    },
+    "title": {
+      "translate": "advancements.adv_01.title"
+    },
+    "description": {
+      "translate": "advancements.adv_01.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_01": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "lolocraftv:galaxybiom"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 300
+  }
+}

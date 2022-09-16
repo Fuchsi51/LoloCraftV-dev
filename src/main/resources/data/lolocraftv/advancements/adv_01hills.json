@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "lolocraftv:galaxydirtmain"
+    },
+    "title": {
+      "translate": "advancements.adv_01hills.title"
+    },
+    "description": {
+      "translate": "advancements.adv_01hills.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_01hills": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "lolocraftv:galaxy_hills"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 200
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lolocraftv:blocks/dirt",
+    "particle": "lolocraftv:blocks/dirt"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "lolocraftv:custom/boss_block",
+  "textures": {
+    "all": "lolocraftv:blocks/galaxy_tnt_side",
+    "particle": "lolocraftv:blocks/galaxy_tnt_side",
+    "0": "lolocraftv:blocks/texture1",
+    "1": "lolocraftv:blocks/texture2",
+    "2": "lolocraftv:blocks/texture3",
+    "3": "lolocraftv:blocks/texture4",
+    "4": "lolocraftv:blocks/texture5",
+    "5": "lolocraftv:blocks/texture6",
+    "6": "lolocraftv:blocks/texture7",
+    "7": "lolocraftv:blocks/texture8",
+    "8": "lolocraftv:blocks/texture9",
+    "missing": "lolocraftv:blocks/"
+  }
+}

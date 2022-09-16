@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "lolocraftv:block/galaxy_slab"
+    },
+    "type=top": {
+      "model": "lolocraftv:block/galaxy_slab_top"
+    },
+    "type=double": {
+      "model": "lolocraftv:block/galaxy_slab_full"
+    }
+  }
+}

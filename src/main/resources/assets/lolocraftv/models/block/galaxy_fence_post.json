@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "lolocraftv:blocks/galaxy_planks",
+    "particle": "lolocraftv:blocks/galaxy_planks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:galaxy_log"
+    }
+  ],
+  "result": {
+    "item": "lolocraftv:galaxy_planks",
+    "count": 4
+  }
+}

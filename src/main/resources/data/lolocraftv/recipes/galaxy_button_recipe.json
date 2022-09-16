@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lolocraftv:galaxy_planks"
+    }
+  ],
+  "result": {
+    "item": "lolocraftv:galaxy_button",
+    "count": 1
+  }
+}

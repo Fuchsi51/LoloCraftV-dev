@@ -1,0 +1,702 @@
+{
+  "mod_elements": [
+    {
+      "name": "GalaxyWood",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_wood",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyLog",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_log",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyPlanks",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_planks",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyLeaves",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_leaves",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyStairs",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_stairs",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxySlab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_slab",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyFence",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_fence",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyFenceGate",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_fence_gate",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyPressurePlate",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_pressure_plate",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyButton",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_button",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyItemsTag",
+      "type": "tag",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_items_tag",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyWoodRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_wood_recipe",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyPlanksRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_planks_recipe",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_fence_gate_recipe",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_pressure_plate_recipe",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyButtonRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_button_recipe",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyStickRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_stick_recipe",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "Galaxydirt",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxygrass",
+      "path": "~/etc."
+    },
+    {
+      "name": "LoloCraftV",
+      "type": "tab",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lolo_craft_v",
+      "path": "~/etc."
+    },
+    {
+      "name": "Galaxydirtmain",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxydirtmain",
+      "path": "~/etc."
+    },
+    {
+      "name": "Galaxyingot",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxyingot",
+      "path": "~/Biom/Galaxy/ore"
+    },
+    {
+      "name": "Galaxybiom",
+      "type": "biome",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxybiom",
+      "path": "~/Biom/Galaxy/Main"
+    },
+    {
+      "name": "Galaxyore",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxyore",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyPickaxe",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_pickaxe",
+      "path": "~/Biom/Galaxy/Stuff"
+    },
+    {
+      "name": "GalaxyAxe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_axe",
+      "path": "~/Biom/Galaxy/Stuff"
+    },
+    {
+      "name": "GalaxySword",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_sword",
+      "path": "~/Biom/Galaxy/Stuff"
+    },
+    {
+      "name": "GalaxyShovel",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_shovel",
+      "path": "~/Biom/Galaxy/Stuff"
+    },
+    {
+      "name": "GalaxyHoe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_hoe",
+      "path": "~/Biom/Galaxy/Stuff"
+    },
+    {
+      "name": "GalaxyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_pickaxe_recipe",
+      "path": "~/Biom/Galaxy/Stuff"
+    },
+    {
+      "name": "GalaxyAxeRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_axe_recipe",
+      "path": "~/Biom/Galaxy/Stuff"
+    },
+    {
+      "name": "GalaxySwordRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_sword_recipe",
+      "path": "~/Biom/Galaxy/Stuff"
+    },
+    {
+      "name": "GalaxyShovelRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_shovel_recipe",
+      "path": "~/Biom/Galaxy/Stuff"
+    },
+    {
+      "name": "GalaxyHoeRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_hoe_recipe",
+      "path": "~/Biom/Galaxy/Stuff"
+    },
+    {
+      "name": "Galaxytree",
+      "type": "structure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxytree",
+      "path": "~/Biom/Galaxy/Main"
+    },
+    {
+      "name": "GalaxyCow",
+      "type": "livingentity",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_cow",
+      "path": "~/Biom/Galaxy/entity"
+    },
+    {
+      "name": "Adv01",
+      "type": "achievement",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_01",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv02",
+      "type": "achievement",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_02",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv03",
+      "type": "achievement",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_03",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Craftbank",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftbank",
+      "path": "~/Biom/Galaxy/Blocks"
+    },
+    {
+      "name": "GalaxyCreeper",
+      "type": "livingentity",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_creeper",
+      "path": "~/Biom/Galaxy/entity"
+    },
+    {
+      "name": "GalaxyCreeperWennSpielerMitDieserEinheitZusammenstosst",
+      "type": "procedure",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_creeper_wenn_spieler_mit_dieser_einheit_zusammenstosst",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy/entity/prod"
+    },
+    {
+      "name": "GalaxyChicken",
+      "type": "livingentity",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_chicken",
+      "path": "~/Biom/Galaxy/entity"
+    },
+    {
+      "name": "Enderstruck",
+      "type": "structure",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "enderstruck",
+      "path": "~/Biom/Galaxy/struckture"
+    },
+    {
+      "name": "GalaxyHills",
+      "type": "biome",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_hills",
+      "path": "~/Biom/Galaxy/Main"
+    },
+    {
+      "name": "Adv04",
+      "type": "achievement",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_04",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv05",
+      "type": "achievement",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_05",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv06",
+      "type": "achievement",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_06",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Galaxydust",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxydust",
+      "path": "~/Biom/Galaxy/Stuff"
+    },
+    {
+      "name": "Adv01hills",
+      "type": "achievement",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_01hills",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv07",
+      "type": "achievement",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_07",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Villiger01",
+      "type": "villagertrade",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "villiger_01",
+      "path": "~/Villiger"
+    },
+    {
+      "name": "Adv08",
+      "type": "achievement",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_08",
+      "path": "~/Adv"
+    },
+    {
+      "name": "BossBlock",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boss_block",
+      "path": "~/endboss"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.lolocraftv.galaxy_sword": "Galaxy Sword",
+      "block.lolocraftv.galaxy_stairs": "Galaxy Stairs",
+      "advancements.adv_05.descr": "Craft a Galaxy Sword",
+      "advancements.adv_05.title": "i am swordi",
+      "advancements.adv_01.title": "A Big New Adventure",
+      "item.lolocraftv.galaxy_cow_spawn_egg": "Galaxy Cow Spawn Egg",
+      "block.lolocraftv.galaxy_fence": "Galaxy Fence",
+      "advancements.adv_08.title": "Why???",
+      "item.lolocraftv.galaxyingot": "Galaxy ingot",
+      "advancements.adv_06.descr": "Craft a Galaxy Axe",
+      "block.lolocraftv.galaxy_leaves": "Galaxy Leaves",
+      "block.lolocraftv.galaxygrass": "Galaxy grass",
+      "entity.lolocraftv.galaxy_chicken": "Galaxy Chicken",
+      "advancements.adv_04.title": "Pic Pic with you Pickaxe",
+      "item.lolocraftv.galaxy_axe": "Galaxy Axe",
+      "advancements.adv_08.descr": "find Galaxy Leaves",
+      "block.lolocraftv.galaxy_log": "Galaxy Log",
+      "block.lolocraftv.galaxy_wood": "Galaxy Wood",
+      "advancements.adv_07.title": "yumey yumey",
+      "biome.lolocraftv.galaxybiom": "Galaxy Biom",
+      "block.lolocraftv.galaxy_pressure_plate": "Galaxy Pressure Plate",
+      "block.lolocraftv.galaxyore": "Galaxyore",
+      "advancements.adv_02.descr": "find the new Wood",
+      "advancements.adv_01hills.title": "Welcome to a Hillivanture!",
+      "block.lolocraftv.galaxy_slab": "Galaxy Slab",
+      "entity.lolocraftv.galaxy_creeper": "Galaxy Creeper",
+      "block.lolocraftv.boss_block": "Boss Block Spawner",
+      "advancements.adv_07.descr": "Eat the Galaxy Dust",
+      "entity.lolocraftv.galaxy_cow": "Galaxy Cow",
+      "item.lolocraftv.galaxydust": "Galaxydust",
+      "biome.lolocraftv.galaxy_hills": "Galaxy Hills",
+      "block.lolocraftv.galaxy_fence_gate": "Galaxy Fence Gate",
+      "itemGroup.tablolo_craft_v": "LoloCraft V",
+      "advancements.adv_03.descr": "find the new Galaxy Ingot",
+      "item.lolocraftv.galaxy_creeper_spawn_egg": "Galaxy Creeper Spawn Egg",
+      "item.lolocraftv.galaxy_shovel": "Galaxy Shovel",
+      "advancements.adv_06.title": "Axi Axe",
+      "advancements.adv_03.title": "The new Ingot",
+      "block.lolocraftv.galaxydirtmain": "Galaxy dirt",
+      "advancements.adv_01.descr": "find the new Galaxy",
+      "advancements.adv_04.descr": "Craft a Galaxy Pickaxe",
+      "block.lolocraftv.galaxy_button": "Galaxy Button",
+      "advancements.adv_01hills.descr": "Finde and go to the Galaxy Hills",
+      "block.lolocraftv.galaxy_planks": "Galaxy Planks",
+      "item.lolocraftv.galaxy_hoe": "Galaxy Hoe",
+      "item.lolocraftv.galaxy_chicken_spawn_egg": "Galaxy Chicken Spawn Egg",
+      "advancements.adv_02.title": "A new Woodventure",
+      "item.lolocraftv.galaxy_pickaxe": "Galaxy Pickaxe"
+    },
+    "de_de": {
+      "item.lolocraftv.galaxy_sword": "Galaxy Schwert",
+      "block.lolocraftv.galaxy_stairs": "Galaxy Stuffe",
+      "advancements.adv_05.descr": "Baue ein Galaxy Schwert",
+      "advancements.adv_05.title": "I am swordi",
+      "advancements.adv_01.title": "Ein Großes neues",
+      "item.lolocraftv.galaxy_cow_spawn_egg": "Galaxy Cow Spawn Egg",
+      "block.lolocraftv.galaxy_fence": "Galaxy Fence",
+      "advancements.adv_08.title": "Why???",
+      "item.lolocraftv.galaxyingot": "Galaxy ingot",
+      "advancements.adv_06.descr": "Craft a Galaxy Axe",
+      "block.lolocraftv.galaxy_leaves": "Galaxy Leaves",
+      "block.lolocraftv.galaxygrass": "Galaxy grass",
+      "entity.lolocraftv.galaxy_chicken": "Galaxy Chicken",
+      "advancements.adv_04.title": "Pic Pic with you Pickaxe",
+      "item.lolocraftv.galaxy_axe": "Galaxy Axe",
+      "advancements.adv_08.descr": "find Galaxy Leaves",
+      "block.lolocraftv.galaxy_log": "Galaxy Log",
+      "block.lolocraftv.galaxy_wood": "Galaxy Wood",
+      "advancements.adv_07.title": "yumey yumey",
+      "biome.lolocraftv.galaxybiom": "Galaxy Biom",
+      "block.lolocraftv.galaxy_pressure_plate": "Galaxy Pressure Plate",
+      "block.lolocraftv.galaxyore": "Galaxyore",
+      "advancements.adv_02.descr": "find the new Wood",
+      "advancements.adv_01hills.title": "Welcome to a Hillivanture!",
+      "block.lolocraftv.galaxy_slab": "Galaxy Slab",
+      "entity.lolocraftv.galaxy_creeper": "Galaxy Creeper",
+      "block.lolocraftv.boss_block": "Boss Block",
+      "advancements.adv_07.descr": "Eat the Galaxy Dust",
+      "entity.lolocraftv.galaxy_cow": "Galaxy Kuh",
+      "item.lolocraftv.galaxydust": "Galaxydust",
+      "biome.lolocraftv.galaxy_hills": "Bergiege Galaxy",
+      "block.lolocraftv.galaxy_fence_gate": "Galaxy Zaun Tor",
+      "itemGroup.tablolo_craft_v": "LoloCraft V",
+      "advancements.adv_03.descr": "find the new Galaxy Ingot",
+      "item.lolocraftv.galaxy_creeper_spawn_egg": "Galaxy Creeper Spawn Egg",
+      "item.lolocraftv.galaxy_shovel": "Galaxy Shovel",
+      "advancements.adv_06.title": "Axi Axe",
+      "advancements.adv_03.title": "The new Ingot",
+      "block.lolocraftv.galaxydirtmain": "Galaxy dirt",
+      "advancements.adv_01.descr": "find the new Galaxy",
+      "advancements.adv_04.descr": "Craft a Galaxy Pickaxe",
+      "block.lolocraftv.galaxy_button": "Galaxy Button",
+      "advancements.adv_01hills.descr": "Finde and go to the Galaxy Hills",
+      "block.lolocraftv.galaxy_planks": "Galaxy Planks",
+      "item.lolocraftv.galaxy_hoe": "Galaxy Hoe",
+      "item.lolocraftv.galaxy_chicken_spawn_egg": "Galaxy Chicken Spawn Egg",
+      "advancements.adv_02.title": "A new Woodventure",
+      "item.lolocraftv.galaxy_pickaxe": "Galaxy Pickaxe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Biom",
+        "children": [
+          {
+            "name": "Galaxy",
+            "children": [
+              {
+                "name": "Main",
+                "children": []
+              },
+              {
+                "name": "Blocks",
+                "children": []
+              },
+              {
+                "name": "ore",
+                "children": []
+              },
+              {
+                "name": "Stuff",
+                "children": []
+              },
+              {
+                "name": "struckture",
+                "children": []
+              },
+              {
+                "name": "entity",
+                "children": [
+                  {
+                    "name": "prod",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "etc.",
+        "children": []
+      },
+      {
+        "name": "Waffen",
+        "children": []
+      },
+      {
+        "name": "Gui",
+        "children": []
+      },
+      {
+        "name": "Adv",
+        "children": []
+      },
+      {
+        "name": "Loot",
+        "children": []
+      },
+      {
+        "name": "Villiger",
+        "children": []
+      },
+      {
+        "name": "endboss",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "lolocraftv",
+    "modName": "LoloCraftV",
+    "version": "5.0.0",
+    "description": "The new Galaxy is here!",
+    "author": "DerLoloHD",
+    "websiteURL": "http://lolocraft.derlolo.de/lolocraft/lolocraft-v/",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logoalpha",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Copyright Fox Inc. 2022",
+    "modElementsPackage": "net.foxinc.lolocraftv",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

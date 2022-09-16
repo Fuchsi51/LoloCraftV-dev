@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lolocraftv:blocks/log_acacia_top",
+    "up": "lolocraftv:blocks/log_acacia_top",
+    "north": "lolocraftv:blocks/log_acacia",
+    "east": "lolocraftv:blocks/log_acacia",
+    "south": "lolocraftv:blocks/log_acacia",
+    "west": "lolocraftv:blocks/log_acacia",
+    "particle": "lolocraftv:blocks/log_acacia_top"
+  }
+}

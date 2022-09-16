@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lolocraftv:blocks/log_acacia",
+    "particle": "lolocraftv:blocks/log_acacia"
+  }
+}
