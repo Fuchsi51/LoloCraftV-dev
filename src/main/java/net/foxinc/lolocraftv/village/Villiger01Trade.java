@@ -26,7 +26,7 @@ public class Villiger01Trade {
 		Int2ObjectMap<List<VillagerTrades.ITrade>> trades = event.getTrades();
 		if (event.getType() == VillagerProfession.TOOLSMITH) {
 			trades.get(2).add(new BasicTrade(new ItemStack(Items.EMERALD, (int) (30)), new ItemStack(GalaxyPickaxeItem.block), 2, 20, 0.1f));
-			trades.get(2).add(new BasicTrade(new ItemStack(GalaxydustItem.block, (int) (5)), new ItemStack(Items.EMERALD), 200, 5, 0.05f));
+			trades.get(2).add(new BasicTrade(new ItemStack(GalaxydustItem.block, (int) (5)), new ItemStack(Items.EMERALD, (int) (5)), 200, 5, 0.05f));
 		}
 		if (event.getType() == VillagerProfession.WEAPONSMITH) {
 			trades.get(2).add(new BasicTrade(new ItemStack(Items.EMERALD, (int) (30)), new ItemStack(GalaxySwordItem.block), 10, 20, 0.05f));
