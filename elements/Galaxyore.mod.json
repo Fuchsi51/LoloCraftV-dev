@@ -127,6 +127,9 @@
     "restrictionBiomes": [
       {
         "value": "CUSTOM:Galaxybiom"
+      },
+      {
+        "value": "CUSTOM:GalaxyHills"
       }
     ],
     "blocksToReplace": [

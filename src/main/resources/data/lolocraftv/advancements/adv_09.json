@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "lolocraftv:galaxy_leaves"
+    },
+    "title": {
+      "translate": "advancements.adv_09.title"
+    },
+    "description": {
+      "translate": "advancements.adv_09.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_09": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "lolocraftv:galaxy_leaves",
+            "count": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 200
+  },
+  "parent": "lolocraftv:adv_08"
+}

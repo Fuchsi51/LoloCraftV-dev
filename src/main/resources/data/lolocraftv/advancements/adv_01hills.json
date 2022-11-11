@@ -1,6 +1,5 @@
 {
   "display": {
-    "background": "minecraft:textures/block/stone.png",
     "icon": {
       "item": "lolocraftv:galaxydirtmain"
     },
@@ -25,5 +24,6 @@
   },
   "rewards": {
     "experience": 200
-  }
+  },
+  "parent": "lolocraftv:adv_01"
 }

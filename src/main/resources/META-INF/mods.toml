@@ -4,12 +4,13 @@ license="All Rights Reserved"
 
 [[mods]]
 modId="lolocraftv"
-version="5.0.0"
+version="5.0.1"
 displayName="LoloCraftV"
-credits="Copyright Fox Inc. 2022"
-displayURL="http://lolocraft.derlolo.de/lolocraft/lolocraft-v/"
+credits="Fuchsiii´s 2022"
+displayURL="http://fuchsiii.de/LoloCraft-Mod/LoloCraft.html"
+updateJSONURL="https://raw.githubusercontent.com/Fuchsi51/LoloCraft/main/Update.json"
 logoFile="logo.png"
-authors="DerLoloHD"
+authors="Fuchsiii51"
 description='''
 The new Galaxy is here!
 '''

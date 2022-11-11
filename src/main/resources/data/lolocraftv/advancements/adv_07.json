@@ -16,16 +16,25 @@
   },
   "criteria": {
     "adv_07": {
-      "trigger": "minecraft:consume_item",
+      "trigger": "minecraft:inventory_changed",
       "conditions": {
-        "item": {
-          "item": "lolocraftv:galaxydust"
-        }
+        "items": [
+          {
+            "item": "lolocraftv:galaxydust",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
       }
     }
   },
   "rewards": {
-    "experience": 200
+    "experience": 200,
+    "recipes": [
+      "lolocraftv:deleted_mod_element"
+    ]
   },
-  "parent": "lolocraftv:adv_01"
+  "parent": "lolocraftv:adv_11"
 }

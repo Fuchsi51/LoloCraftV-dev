@@ -1,0 +1,113 @@
+{
+  "_fv": 33,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "LoloCraft V",
+          "color": {
+            "value": -6750055,
+            "falpha": 0.0
+          },
+          "name": "LoloCraft V",
+          "x": 185,
+          "y": 39
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Powert by LC Engine",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Powert by LC Engine",
+          "x": 163,
+          "y": 49
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Version:",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Version:",
+          "x": 0,
+          "y": 229
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "5.0.0",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "5.0.0",
+          "x": 43,
+          "y": 229
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Creator: Fuchsiii",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Creator: Fuchsiii",
+          "x": 128,
+          "y": 67
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "realeas: 16.10.2022",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "realeas: 16.10.2022",
+          "x": 129,
+          "y": 78
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "LC Engine version: 4.0.3",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "LC Engine version: 4.0.3",
+          "x": 129,
+          "y": 189
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

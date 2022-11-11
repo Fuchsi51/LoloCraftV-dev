@@ -16,7 +16,7 @@
     "attackSpeed": 2.0,
     "enchantability": 14,
     "damageVsEntity": 10.0,
-    "usageCount": 300,
+    "usageCount": 500,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [
@@ -26,6 +26,9 @@
     ],
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,
-    "damageOnCrafting": false
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "GalaxySwordWennLebewesenMitWerkzeugGeschlagenWird"
+    }
   }
 }

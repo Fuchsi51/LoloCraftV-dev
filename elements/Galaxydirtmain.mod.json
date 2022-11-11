@@ -42,7 +42,7 @@
     "creativeTab": {
       "value": "CUSTOM:LoloCraftV"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "shovel",
     "customDrop": {
       "value": ""
     },

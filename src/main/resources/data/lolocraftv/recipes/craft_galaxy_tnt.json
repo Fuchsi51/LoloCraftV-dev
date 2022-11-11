@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sand"
+    },
+    "1": {
+      "item": "lolocraftv:galaxydust"
+    },
+    "2": {
+      "item": "minecraft:sand"
+    },
+    "3": {
+      "item": "lolocraftv:galaxydust"
+    },
+    "4": {
+      "item": "minecraft:sand"
+    },
+    "5": {
+      "item": "lolocraftv:galaxydust"
+    },
+    "6": {
+      "item": "minecraft:sand"
+    },
+    "7": {
+      "item": "lolocraftv:galaxydust"
+    },
+    "8": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "lolocraftv:galaxydustblock",
+    "count": 1
+  }
+}

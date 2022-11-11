@@ -29,14 +29,17 @@
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
-    "isFood": true,
-    "nutritionalValue": 20,
+    "onRightClickedInAir": {
+      "name": "GalaxydustBeiRechtsklick"
+    },
+    "isFood": false,
+    "nutritionalValue": 2,
     "saturation": 0.3,
     "eatResultItem": {
       "value": ""
     },
-    "isMeat": false,
-    "isAlwaysEdible": false,
+    "isMeat": true,
+    "isAlwaysEdible": true,
     "animation": "none"
   }
 }

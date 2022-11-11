@@ -394,15 +394,6 @@
       "path": "~/Biom/Galaxy/entity/prod"
     },
     {
-      "name": "GalaxyChicken",
-      "type": "livingentity",
-      "sortid": 44,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "galaxy_chicken",
-      "path": "~/Biom/Galaxy/entity"
-    },
-    {
       "name": "Enderstruck",
       "type": "structure",
       "sortid": 45,
@@ -500,6 +491,260 @@
       "locked_code": false,
       "registry_name": "boss_block",
       "path": "~/endboss"
+    },
+    {
+      "name": "Adv09",
+      "type": "achievement",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_09",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv10",
+      "type": "achievement",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_10",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Devgui",
+      "type": "gui",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "devgui",
+      "path": "~/dev"
+    },
+    {
+      "name": "Galaxypig",
+      "type": "livingentity",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxypig",
+      "path": "~/Biom/Galaxy/entity"
+    },
+    {
+      "name": "Adv11",
+      "type": "achievement",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_11",
+      "path": "~/Adv"
+    },
+    {
+      "name": "GalaxydustPlayerFinishesUsingItem",
+      "type": "procedure",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxydust_player_finishes_using_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy/Stuff/Prod"
+    },
+    {
+      "name": "Galaxydustblock",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxydustblock",
+      "path": "~/Biom/Galaxy/Stuff"
+    },
+    {
+      "name": "MegagalaxydustbombRedstoneAn",
+      "type": "procedure",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "megagalaxydustbomb_redstone_an",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy/Stuff/Prod"
+    },
+    {
+      "name": "Megagalaxydustbomb",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "megagalaxydustbomb",
+      "path": "~/Biom/Galaxy/Stuff/Prod"
+    },
+    {
+      "name": "GalaxydustBeiRechtsklick",
+      "type": "procedure",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxydust_bei_rechtsklick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy/Stuff/Prod"
+    },
+    {
+      "name": "CraftGalaxyTNT",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_galaxy_tnt",
+      "path": "~/Biom/Galaxy/Stuff"
+    },
+    {
+      "name": "CraftMegaGalaxyTNT",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_mega_galaxy_tnt",
+      "path": "~/Biom/Galaxy/Stuff"
+    },
+    {
+      "name": "NucleaGalaxyTNTRedstoneAn",
+      "type": "procedure",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nuclea_galaxy_tnt_redstone_an",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy/Stuff/Nuclea TNT"
+    },
+    {
+      "name": "NucleaGalaxyTNT",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nuclea_galaxy_tnt",
+      "path": "~/Biom/Galaxy/Stuff/Nuclea TNT"
+    },
+    {
+      "name": "Adv12",
+      "type": "achievement",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_12",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv13",
+      "type": "achievement",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_13",
+      "path": "~/Adv"
+    },
+    {
+      "name": "Adv14",
+      "type": "achievement",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adv_14",
+      "path": "~/Adv"
+    },
+    {
+      "name": "GalaxySwordWennLebewesenMitWerkzeugGeschlagenWird",
+      "type": "procedure",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_sword_wenn_lebewesen_mit_werkzeug_geschlagen_wird",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Biom/Galaxy/Stuff/Prod"
     }
   ],
   "variable_elements": [],
@@ -508,102 +753,133 @@
     "en_us": {
       "item.lolocraftv.galaxy_sword": "Galaxy Sword",
       "block.lolocraftv.galaxy_stairs": "Galaxy Stairs",
+      "block.lolocraftv.galaxydustblock": "Galaxy dust block",
       "advancements.adv_05.descr": "Craft a Galaxy Sword",
-      "advancements.adv_05.title": "i am swordi",
+      "advancements.adv_05.title": "I am swordi",
       "advancements.adv_01.title": "A Big New Adventure",
+      "block.lolocraftv.megagalaxydustbomb": "Megagalaxydustbomb",
+      "advancements.adv_09.descr": "Finde 2 Galaxy Leaves",
       "item.lolocraftv.galaxy_cow_spawn_egg": "Galaxy Cow Spawn Egg",
+      "advancements.adv_11.title": "Boooom",
       "block.lolocraftv.galaxy_fence": "Galaxy Fence",
       "advancements.adv_08.title": "Why???",
-      "item.lolocraftv.galaxyingot": "Galaxy ingot",
+      "item.lolocraftv.galaxyingot": "Galaxy Ingot",
+      "advancements.adv_11.descr": "A Galaxy Creeper is very hard to kill",
       "advancements.adv_06.descr": "Craft a Galaxy Axe",
       "block.lolocraftv.galaxy_leaves": "Galaxy Leaves",
       "block.lolocraftv.galaxygrass": "Galaxy grass",
-      "entity.lolocraftv.galaxy_chicken": "Galaxy Chicken",
       "advancements.adv_04.title": "Pic Pic with you Pickaxe",
       "item.lolocraftv.galaxy_axe": "Galaxy Axe",
-      "advancements.adv_08.descr": "find Galaxy Leaves",
+      "advancements.adv_08.descr": "Find Galaxy Leaves",
       "block.lolocraftv.galaxy_log": "Galaxy Log",
       "block.lolocraftv.galaxy_wood": "Galaxy Wood",
-      "advancements.adv_07.title": "yumey yumey",
+      "advancements.adv_14.descr": "Craft the Nuclea Galaxy TNT",
+      "advancements.adv_07.title": "That is very dangerous son",
       "biome.lolocraftv.galaxybiom": "Galaxy Biom",
       "block.lolocraftv.galaxy_pressure_plate": "Galaxy Pressure Plate",
       "block.lolocraftv.galaxyore": "Galaxyore",
-      "advancements.adv_02.descr": "find the new Wood",
+      "advancements.adv_12.title": "Big Boom",
+      "advancements.adv_02.descr": "Find the new Wood",
       "advancements.adv_01hills.title": "Welcome to a Hillivanture!",
       "block.lolocraftv.galaxy_slab": "Galaxy Slab",
       "entity.lolocraftv.galaxy_creeper": "Galaxy Creeper",
       "block.lolocraftv.boss_block": "Boss Block Spawner",
+      "advancements.adv_10.descr": "Farm 64 Galaxy Grass",
+      "advancements.adv_13.title": "Biger Boom",
       "advancements.adv_07.descr": "Eat the Galaxy Dust",
       "entity.lolocraftv.galaxy_cow": "Galaxy Cow",
       "item.lolocraftv.galaxydust": "Galaxydust",
       "biome.lolocraftv.galaxy_hills": "Galaxy Hills",
+      "block.lolocraftv.nuclea_galaxy_tnt": "Nuclea Galaxy TNT",
+      "advancements.adv_10.title": "Diiiiiiirty",
       "block.lolocraftv.galaxy_fence_gate": "Galaxy Fence Gate",
       "itemGroup.tablolo_craft_v": "LoloCraft V",
-      "advancements.adv_03.descr": "find the new Galaxy Ingot",
+      "advancements.adv_03.descr": "Find the new Galaxy Ingot",
+      "advancements.adv_13.descr": "Craft the Mega Galaxy TNT",
       "item.lolocraftv.galaxy_creeper_spawn_egg": "Galaxy Creeper Spawn Egg",
       "item.lolocraftv.galaxy_shovel": "Galaxy Shovel",
       "advancements.adv_06.title": "Axi Axe",
       "advancements.adv_03.title": "The new Ingot",
       "block.lolocraftv.galaxydirtmain": "Galaxy dirt",
-      "advancements.adv_01.descr": "find the new Galaxy",
+      "entity.lolocraftv.galaxypig": "Galaxy Pig",
+      "advancements.adv_14.title": "Much Biger BOOOOOOOMM",
+      "advancements.adv_01.descr": "Find the new Galaxy",
       "advancements.adv_04.descr": "Craft a Galaxy Pickaxe",
+      "advancements.adv_09.title": "Why 2???",
       "block.lolocraftv.galaxy_button": "Galaxy Button",
       "advancements.adv_01hills.descr": "Finde and go to the Galaxy Hills",
       "block.lolocraftv.galaxy_planks": "Galaxy Planks",
       "item.lolocraftv.galaxy_hoe": "Galaxy Hoe",
-      "item.lolocraftv.galaxy_chicken_spawn_egg": "Galaxy Chicken Spawn Egg",
+      "item.lolocraftv.galaxypig_spawn_egg": "Galaxy Pig Spawn Egg",
       "advancements.adv_02.title": "A new Woodventure",
+      "advancements.adv_12.descr": "Craft the Galaxy TNT",
       "item.lolocraftv.galaxy_pickaxe": "Galaxy Pickaxe"
     },
     "de_de": {
       "item.lolocraftv.galaxy_sword": "Galaxy Schwert",
-      "block.lolocraftv.galaxy_stairs": "Galaxy Stuffe",
+      "block.lolocraftv.galaxy_stairs": "Galaxy Treppe",
+      "block.lolocraftv.galaxydustblock": "Galaxy TNT",
       "advancements.adv_05.descr": "Baue ein Galaxy Schwert",
       "advancements.adv_05.title": "I am swordi",
-      "advancements.adv_01.title": "Ein Großes neues",
-      "item.lolocraftv.galaxy_cow_spawn_egg": "Galaxy Cow Spawn Egg",
-      "block.lolocraftv.galaxy_fence": "Galaxy Fence",
-      "advancements.adv_08.title": "Why???",
-      "item.lolocraftv.galaxyingot": "Galaxy ingot",
-      "advancements.adv_06.descr": "Craft a Galaxy Axe",
+      "advancements.adv_01.title": "A Big New Adventure",
+      "block.lolocraftv.megagalaxydustbomb": "Mega Galaxy TNT",
+      "advancements.adv_09.descr": "finde 2 Galaxy Leaves",
+      "item.lolocraftv.galaxy_cow_spawn_egg": "Galaxy Kuh Spawn Egg",
+      "advancements.adv_11.title": "Boooom",
+      "block.lolocraftv.galaxy_fence": "Galaxy Zaun",
+      "advancements.adv_08.title": "Warum???",
+      "item.lolocraftv.galaxyingot": "Galaxy Ingot",
+      "advancements.adv_11.descr": "A Galaxy Creeper is very hard to kill",
+      "advancements.adv_06.descr": "Baue eine Galaxy Axt",
       "block.lolocraftv.galaxy_leaves": "Galaxy Leaves",
-      "block.lolocraftv.galaxygrass": "Galaxy grass",
-      "entity.lolocraftv.galaxy_chicken": "Galaxy Chicken",
-      "advancements.adv_04.title": "Pic Pic with you Pickaxe",
-      "item.lolocraftv.galaxy_axe": "Galaxy Axe",
-      "advancements.adv_08.descr": "find Galaxy Leaves",
-      "block.lolocraftv.galaxy_log": "Galaxy Log",
-      "block.lolocraftv.galaxy_wood": "Galaxy Wood",
-      "advancements.adv_07.title": "yumey yumey",
+      "block.lolocraftv.galaxygrass": "Galaxy Grass",
+      "advancements.adv_04.title": "Pic Pic mit deiner Spitzhacke",
+      "item.lolocraftv.galaxy_axe": "Galaxy Axt",
+      "advancements.adv_08.descr": "Finde Galaxy Leaves",
+      "block.lolocraftv.galaxy_log": "Galaxy Stam",
+      "block.lolocraftv.galaxy_wood": "Galaxy Holz",
+      "advancements.adv_14.descr": "Craft the Nuclea Galaxy TNT",
+      "advancements.adv_07.title": "Das sieht gefährlich aus",
       "biome.lolocraftv.galaxybiom": "Galaxy Biom",
-      "block.lolocraftv.galaxy_pressure_plate": "Galaxy Pressure Plate",
-      "block.lolocraftv.galaxyore": "Galaxyore",
-      "advancements.adv_02.descr": "find the new Wood",
-      "advancements.adv_01hills.title": "Welcome to a Hillivanture!",
-      "block.lolocraftv.galaxy_slab": "Galaxy Slab",
+      "block.lolocraftv.galaxy_pressure_plate": "Galaxy Druckplatte",
+      "block.lolocraftv.galaxyore": "Galaxy Erz",
+      "advancements.adv_12.title": "Big Boom",
+      "advancements.adv_02.descr": "Finde das neue Holz",
+      "advancements.adv_01hills.title": "Willkommen auf ein Höhriges Abenteuer!",
+      "block.lolocraftv.galaxy_slab": "Galaxy Stuffe",
       "entity.lolocraftv.galaxy_creeper": "Galaxy Creeper",
       "block.lolocraftv.boss_block": "Boss Block",
-      "advancements.adv_07.descr": "Eat the Galaxy Dust",
+      "advancements.adv_10.descr": "Farm 100 Galaxy Grass",
+      "advancements.adv_13.title": "Biger Boom",
+      "advancements.adv_07.descr": "Finde Galaxy Staub",
       "entity.lolocraftv.galaxy_cow": "Galaxy Kuh",
-      "item.lolocraftv.galaxydust": "Galaxydust",
+      "item.lolocraftv.galaxydust": "Galaxy Staub",
       "biome.lolocraftv.galaxy_hills": "Bergiege Galaxy",
+      "block.lolocraftv.nuclea_galaxy_tnt": "Nuclea Galaxy TNT",
+      "advancements.adv_10.title": "Diiiiiiirty",
+      "advancements.adv_01.title.v": "Auf ein Großes neues!",
       "block.lolocraftv.galaxy_fence_gate": "Galaxy Zaun Tor",
-      "itemGroup.tablolo_craft_v": "LoloCraft V",
-      "advancements.adv_03.descr": "find the new Galaxy Ingot",
+      "itemGroup.tablolo_craft_v": "LoloCraft V -Deutsch",
+      "advancements.adv_03.descr": "Brenne das neue Galaxy Ingot",
+      "advancements.adv_13.descr": "Crafte das Mega Galaxy TNT",
       "item.lolocraftv.galaxy_creeper_spawn_egg": "Galaxy Creeper Spawn Egg",
-      "item.lolocraftv.galaxy_shovel": "Galaxy Shovel",
+      "item.lolocraftv.galaxy_shovel": "Galaxy Schaufel",
       "advancements.adv_06.title": "Axi Axe",
-      "advancements.adv_03.title": "The new Ingot",
-      "block.lolocraftv.galaxydirtmain": "Galaxy dirt",
-      "advancements.adv_01.descr": "find the new Galaxy",
-      "advancements.adv_04.descr": "Craft a Galaxy Pickaxe",
-      "block.lolocraftv.galaxy_button": "Galaxy Button",
-      "advancements.adv_01hills.descr": "Finde and go to the Galaxy Hills",
-      "block.lolocraftv.galaxy_planks": "Galaxy Planks",
-      "item.lolocraftv.galaxy_hoe": "Galaxy Hoe",
-      "item.lolocraftv.galaxy_chicken_spawn_egg": "Galaxy Chicken Spawn Egg",
-      "advancements.adv_02.title": "A new Woodventure",
-      "item.lolocraftv.galaxy_pickaxe": "Galaxy Pickaxe"
+      "advancements.adv_03.title": "Das neue Ingot",
+      "block.lolocraftv.galaxydirtmain": "Galaxy Dirt",
+      "entity.lolocraftv.galaxypig": "Galaxy Schwein",
+      "advancements.adv_14.title": "Much Biger BOOOOOOOMM",
+      "advancements.adv_01.descr": "Finde die neue Galaxy",
+      "advancements.adv_04.descr": "Baue eine Galaxy Spitzhacke",
+      "advancements.adv_09.title": "Warum 2???",
+      "block.lolocraftv.galaxy_button": "Galaxy Knopf",
+      "advancements.adv_01hills.descr": "Finde und gehezu den Galaxy Hills",
+      "block.lolocraftv.galaxy_planks": "Galaxy Planken",
+      "item.lolocraftv.galaxy_hoe": "Galaxy Hacke",
+      "item.lolocraftv.galaxypig_spawn_egg": "Galaxy Schwein Spawn Egg",
+      "advancements.adv_02.title": "Ein neues Holtziges Abenteuer",
+      "advancements.adv_12.descr": "Crafte das Galaxy TNT",
+      "item.lolocraftv.galaxy_pickaxe": "Galaxy Spitzhacke"
     }
   },
   "foldersRoot": {
@@ -629,7 +905,16 @@
               },
               {
                 "name": "Stuff",
-                "children": []
+                "children": [
+                  {
+                    "name": "Prod",
+                    "children": []
+                  },
+                  {
+                    "name": "Nuclea TNT",
+                    "children": []
+                  }
+                ]
               },
               {
                 "name": "struckture",
@@ -675,27 +960,36 @@
       {
         "name": "endboss",
         "children": []
+      },
+      {
+        "name": "dev",
+        "children": []
+      },
+      {
+        "name": "start",
+        "children": []
       }
     ]
   },
   "workspaceSettings": {
     "modid": "lolocraftv",
     "modName": "LoloCraftV",
-    "version": "5.0.0",
+    "version": "5.0.1",
     "description": "The new Galaxy is here!",
-    "author": "DerLoloHD",
-    "websiteURL": "http://lolocraft.derlolo.de/lolocraft/lolocraft-v/",
+    "author": "Fuchsiii51",
+    "websiteURL": "http://fuchsiii.de/LoloCraft-Mod/LoloCraft.html",
     "license": "All Rights Reserved",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "updateURL": "https://raw.githubusercontent.com/Fuchsi51/LoloCraft/main/Update.json",
     "modPicture": "logoalpha",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
-    "credits": "Copyright Fox Inc. 2022",
-    "modElementsPackage": "net.foxinc.lolocraftv",
+    "credits": "Fuchsiii´s 2022",
+    "modElementsPackage": "net.fuchsiiis.lolocraftv",
     "lockBaseModFiles": false
   },
   "mcreatorVersion": 202200234517

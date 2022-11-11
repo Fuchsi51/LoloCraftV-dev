@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "item": "lolocraftv:galaxydustblock"
+    },
+    "title": {
+      "translate": "advancements.adv_12.title"
+    },
+    "description": {
+      "translate": "advancements.adv_12.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_12": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "lolocraftv:galaxydustblock",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 200,
+    "recipes": [
+      "lolocraftv:craft_mega_galaxy_tnt"
+    ]
+  },
+  "parent": "lolocraftv:adv_07"
+}

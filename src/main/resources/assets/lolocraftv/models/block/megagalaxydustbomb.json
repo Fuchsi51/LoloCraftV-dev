@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lolocraftv:blocks/galaxytnt_top",
+    "up": "lolocraftv:blocks/galaxydustblock",
+    "north": "lolocraftv:blocks/galaxydusttnt",
+    "east": "lolocraftv:blocks/galaxydusttnt",
+    "south": "lolocraftv:blocks/galaxydusttnt",
+    "west": "lolocraftv:blocks/galaxydusttnt",
+    "particle": "lolocraftv:blocks/galaxytnt_top"
+  }
+}
